@@ -1,2 +1,2 @@
-# Javascript1
-I built a stylish, responsive portfolio using HTML, CSS, and JavaScript.
+# Javascript
+I built a stylish, responsive websites using HTML, CSS, and JavaScript.
