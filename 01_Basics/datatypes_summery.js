@@ -28,4 +28,30 @@ const myfunction = function(){
 
 console.log(typeof myfunction);
 
+// ***** stack(Primitive), Heap(non-Primitive)
+
+let myfirstname = "Mohsin";
+
+let secondname = myfirstname;
+secondname = "Rafique"
+
+// console.log(myfirstname);
+
+// console.log(secondname);
+
+let userone = {
+    email: "mohsinanjum430@gmail.com"
+}
+
+let user2 = userone
+
+user2.email = "ass5548t@gmail.com"
+
+console.log(userone.email);
+console.log(user2.email);
+
+
+
+
+
 
